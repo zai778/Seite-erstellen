@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+nav {
+  background-color: blueviolet;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  padding: 15px;
+  display: block;
+  font-size: 55px;
+  word-spacing: 25px;
+  padding-left: 50px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: blue;
+  background-color: black;
+  border-radius: 12px;
+}
+
+img {
+  margin-left: 50%;
+}
+section {
+  margin: 100px;
+  text-align: center;
+}
+h1 {
+  font-size: 100px;
+}
+p {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+footer {
+  background-color: yellow;
+  font-size: 50px;
+  bottom: 0%;
+  position: fixed;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
